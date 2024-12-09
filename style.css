@@ -8,7 +8,7 @@ body {
 
 /* ==== رأس الصفحة (Header) ==== */
 .header {
-    background-image: url('C:/Users/AdhaM/Downloads/index.html/img/img10.jpg.jpg'); 
+    background-image: url('img10.jpg.jpg'); 
     background-size: cover;     /* جعل الصورة تغطي الهيدر بالكامل */
     background-position: center;   /* جعل الصورة في المنتصف */
     height: 100vh;     /* ارتفاع الهيدر يساوي ارتفاع الشاشة */
